@@ -15,10 +15,13 @@ A simple and intuitive calculator application built using Python. This project s
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/fortuneiyoha/Python-Calculator.git
    ```
+
 2. Navigate to the project directory:
+
    ```bash
    cd Python-Calculator
    ```
